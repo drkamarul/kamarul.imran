@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 blogdown
-Thumbs.db 
+
 public/ # if using Netlify
