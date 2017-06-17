@@ -1,5 +1,5 @@
 baseurl = "https://pest-exterminator-liquors-33520.netlify.com"  # End your URL with a `/` trailing slash.
-title = "Academic"
+title = "KIM Academic"
 copyright = "&copy; 2016 Your Name"
 theme = "hugo-academic"
 enableEmoji = true
